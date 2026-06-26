@@ -81,7 +81,7 @@ graph TD
 ## Assets
 
 * **Workflow Diagram**: [assets/architecture_diagram.png](assets/architecture_diagram.png)
-* **Cover Banner**: [assets/cover_page_banner.png](file:///d:/adk-workspace/finfit/assets/cover_page_banner.png)
+* **Cover Banner**: [assets/cover_page_banner.png](https://github.com/ari-adi/finfit/blob/main/assets/cover_page_banner.png)
 
 ## Demo Script
 
