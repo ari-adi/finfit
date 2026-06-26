@@ -80,7 +80,7 @@ graph TD
 
 ## Assets
 
-* **Workflow Diagram**: [assets/architecture_diagram.png](file:///d:/adk-workspace/finfit/assets/architecture_diagram.png)
+* **Workflow Diagram**: [assets/architecture_diagram.png](assets/architecture_diagram.png)
 * **Cover Banner**: [assets/cover_page_banner.png](file:///d:/adk-workspace/finfit/assets/cover_page_banner.png)
 
 ## Demo Script
